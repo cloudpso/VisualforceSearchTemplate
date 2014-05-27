@@ -1,6 +1,7 @@
 Visualforce page with a first and/or last name search across Contacts.  Autocomplete passes a JSON string of Contact names, while the page controller extends a virtual class for reusable search methods.
 
-https://raw.githubusercontent.com/mattparkerls/VisualforceSearchTemplate/master/complete.png
+![Screen Shot]
+(https://raw.githubusercontent.com/mattparkerls/VisualforceSearchTemplate/master/complete.png)
 
 Entire controller is only several lines
 
